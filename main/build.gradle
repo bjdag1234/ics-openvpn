@@ -62,6 +62,7 @@ android {
     }
 
     lintOptions {
+        abortOnError false
         enable 'BackButton', 'EasterEgg', 'StopShip', 'IconExpectedSize', 'GradleDynamicVersion', 'NewerVersionAvailable'
         warning 'ImpliedQuantity'
         disable 'MissingTranslation'

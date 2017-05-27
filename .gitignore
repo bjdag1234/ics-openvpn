@@ -1,3 +1,5 @@
+.jks
+*.jks
 build/
 main/libs/
 //main/ovpnlibs/
