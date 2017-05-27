@@ -4,5 +4,5 @@
  */
 
 include ':main'
-include ':vpndialogxposed'
-include ':remoteExample'
+//include ':vpndialogxposed'
+//include ':remoteExample'
